@@ -1,0 +1,29 @@
+Follow This Steps
+
+1. app/config.php edit and fill your database information 
+Example :- yourhost
+           Database user
+           Db password
+           Db name
+           
+2. Upload abusaleh.sql your phpmyadmin
+
+3. Enjoy Script is successfully install
+
+Free Hosting Installation
+
+1. app/config.php edit and fill your database information 
+Example :- yourhost
+           Database user
+           Db password
+           Db name
+           
+2. Upload abusaleh.sql your phpmyadmin
+
+3. app/confing/database.php edit 
+Striction Mode is also true ok
+
+
+If you face any problem then comment in the comment box of the Video
+
+ Subscribe Like Share
